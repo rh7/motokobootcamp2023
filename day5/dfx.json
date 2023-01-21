@@ -1,0 +1,23 @@
+{
+    "canisters": {
+ 
+      "day5-receiver":{
+        "main": "receiver.mo",
+        "type": "motoko"
+      },
+      "day5-sender":{
+        "main": "sender.mo",
+        "type": "motoko"
+      },
+
+      "http":{
+        "main": "http.mo",
+        "type": "motoko"
+      },
+
+      "webpage":{
+        "main": "webpage.mo",
+        "type": "motoko"
+      }
+    }
+  }
